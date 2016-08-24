@@ -3,3 +3,9 @@ div {
   border: 1px solid aquamarine;
   padding: 30px;
 }
+.img
+	{
+		position: absolute;
+		top: 0px;
+		right: 0px;		
+	}
